@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+header{
+    padding-top:1px;
+    padding-bottom: 1px;
+}
+
+.head1{
+    border-radius: 20px;
+    height:100px;
+}
+
+img{
+    width: auto;
+    height: auto;
+
+}
+
+.carousel img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.carousel{
+    margin-bottom: 20px;
+}
+
+.h22{
+    color: black;
+}
+
+.h222{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+article{
+    margin-top: auto    ;
+    width: 25%;
+    align-content: center;
+    background-color: rgb(25, 104, 17);
+}
+
+article p{
+    color: white;
+    font-size: 20px;
+
+}
+
+.container{
+    background-color: rgb(25, 104, 17);
+}
